@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1659024247, 867415904]
+build_end_time: [1659024248, 990900993]
+inputs:
+  "/Users/matt/swift/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift": [1658952282, 632981777]
+  "/Users/matt/swift/Dicee-iOS13/Dicee-iOS13/SceneDelegate.swift": [1658952282, 676660537]
+  "/Users/matt/swift/Dicee-iOS13/Dicee-iOS13/ViewController.swift": [1659024247, 676982164]
