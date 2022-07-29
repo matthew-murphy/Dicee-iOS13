@@ -9,8 +9,8 @@ class ViewController: UIViewController {
         
         let diceArray = [UIImage(named:"DiceOne"), UIImage(named:"DiceTwo"), UIImage(named:"DiceThree"), UIImage(named:"DiceFour"), UIImage(named:"DiceFive"), UIImage(named:"DiceSix")]
                         
-        diceImageViewOne.image = diceArray[Int.random(in: 1...5)]
-        diceImageViewTwo.image = diceArray[Int.random(in: 1...5)]
+        diceImageViewOne.image = diceArray[Int.random(in: 0...5)]
+        diceImageViewTwo.image = diceArray[Int.random(in: 0...5)]
         
     }
 }
